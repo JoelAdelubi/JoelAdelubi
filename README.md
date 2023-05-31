@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelAdelubi
 - 👀 I’m interested in ...different aspect of software development.
-- 🌱 I’m currently learning ...React.
+- 🌱 I’m currently learning ...React and Svelte
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
